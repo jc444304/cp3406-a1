@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Whence</string>
+    <string name="statusLabelValue">Status</string>
+    <string name="disabledStatusValue">Disabled</string>
+    <string name="enabledStatusValue">Enabled</string>
+    <string name="nameLabelValue">Name</string>
+    <string name="descriptionLabelValue">Description</string>
+    <string name="effectsLabelValue">Effects</string>
+    <string name="volumeLabelValue">Volume</string>
+    <string name="addButtonValue">Add</string>
+    <string name="saveButtonValue">Save</string>
+    <string name="deleteButtonValue">Delete</string>
+    <string name="remindersLabelValue">Reminders</string>
+    <string name="warnIntervalsLabel">Warning Intervals</string>
+    <string name="warnMinutesLabel">Warning Minutes</string>
+    <string name="promptTimeLabelValue">Prompt Time</string>
+    <string name="notifyLabelValue">Show notifications</string>
+    <string name="vibrateLabelValue">Make vibrations</string>
+    <string name="weekDaysLabelValue">Week Days</string>
+    <string name="weekDaySun">Sun</string>
+    <string name="weekDayMon">Mon</string>
+    <string name="weekDayTue">Tues</string>
+    <string name="weekDayWed">Wed</string>
+    <string name="weekDayThu">Thurs</string>
+    <string name="weekDayFri">Fri</string>
+    <string name="weekDaySat">Sat</string>
+</resources>
